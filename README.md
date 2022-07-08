@@ -2,9 +2,8 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 
 <p> I'm an Industrial engineer who always wanted to learn programming, I had the opportunity to do that since last year and since then I have not stopped. I first choose an Web Developer Bootcamp in Udemy in wich I learned programming using JavaScript, CSS, NodeJS and MongoDB and made a web site with a CRUD (you can see the code by click Yelpcamp repository), Currently I'm participating in a Governamental programm called Misión TIC, in wich I have
-learned Python, you can see some Exercises that I have made in the PythonExercises repository, I'm learnign Java
-right now in the same way and I will upload some Java exercises in the near future. I´m looking for a developer job
-and I think I would enjoy working as a backend developer because I like making useful mechanisms for data processing and perform actions.</p>
+learned Python, you can see some Exercises that I have made in the PythonExercises repository, and I'm learnign Java
+right now. I´m looking for a developer job and I think I would enjoy working as a backend developer because I like making useful mechanisms for data processing and perform actions.</p>
 
 - 📫 Contact me: **icmarint@gmail.com**
 
