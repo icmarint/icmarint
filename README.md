@@ -17,8 +17,8 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icmarint&layout=compact&theme=dark)
 
-*   A list item with a blockquote:
+## Class projects:
 
-    >This is [an example](https://github.com/icmarint/Yelpcamp "Yelpcamp") inline link.
+    *Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
 
 
