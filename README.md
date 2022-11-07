@@ -19,5 +19,7 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 
 ## Class projects:
 *  Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
+*  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise](https://github.com/TitanesUdeA/Entrega4 "Enterprise").
+*  Pharmacy is the class project for University of Antioquia´s Web Development Certificate wich is developed rigth now [Pharmacy](https://github.com/WebsiteBuilderTIC2/Farmacia "Pharmacy").
 
 
