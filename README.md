@@ -18,7 +18,6 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icmarint&layout=compact&theme=dark)
 
 ## Class projects:
-
-    * Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
+*  Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
 
 
