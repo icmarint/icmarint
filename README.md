@@ -19,6 +19,6 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 
 ## Class projects:
 
-    *Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
+    * Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
 
 
