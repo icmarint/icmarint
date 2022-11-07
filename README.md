@@ -17,6 +17,8 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icmarint&layout=compact&theme=dark)
 
-This is [an example](https://github.com/icmarint/Yelpcamp "Yelpcamp") inline link.
+*   A list item with a blockquote:
+
+    >This is [an example](https://github.com/icmarint/Yelpcamp "Yelpcamp") inline link.
 
 
