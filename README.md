@@ -23,7 +23,7 @@ I am also open to participating in web development projects to gain more experie
 ### The Web Developer Bootcamp 2022 
 *  Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
 ### Misión TIC - Colombia
-*  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise] (https://github.com/TitanesUdeA/Entrega4 "Enterprise").
+*  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise](https://github.com/TitanesUdeA/Entrega4 "Enterprise").
 *  Pharmacy is the class project for University of Antioquia´s Web Development Certificate wich is developed rigth now [Pharmacy](https://github.com/WebsiteBuilderTIC2/Farmacia "Pharmacy").
 ### React: De cero a experto ( Hooks y MERN )
 *  GifExpertApp: This is an application developed with React that uses an API (https://icmarint.github.io/react-gif-expert/).
