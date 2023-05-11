@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabel Cristina Marín</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-<p> I am a Web Developer with engineering background. In this Page you will find mainly projects I made for my classes of different certifications. I first choose an Web Developer Bootcamp in Udemy in wich I learned programming using JavaScript, CSS, NodeJS and MongoDB and made a web site with a CRUD (you can see the code by click Yelpcamp repository). Currently, I'm participating in a Governamental programm called Misión TIC, in wich I have
-learned Python, you can see some Exercises that I have made in the PythonExercises repository, and I'm learnign Java
-right now. I'm developing a web site for my entreperneurship and I´m looking for a developer job.</p>
+<p> I am a Web Developer with engineering background. In this Page you will find mainly projects I made for my classes of different certifications. I first choose an Web Developer Bootcamp in Udemy in wich I learned programming using JavaScript, CSS, NodeJS and MongoDB and made a web site with a CRUD (you can see the code by click Yelpcamp repository). Then, I have participated in a Governamental programm called Misión TIC, . I'm developing a web site for my entreperneurship and I´m looking for a developer job.</p>
 
 - 📫 Contact me: **icmarint@gmail.com**
 
@@ -18,9 +16,10 @@ right now. I'm developing a web site for my entreperneurship and I´m looking fo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icmarint&layout=compact&theme=dark)
 
 ## Class projects:
-*  Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
-*  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise](https://github.com/TitanesUdeA/Entrega4 "Enterprise").
-*  Pharmacy is the class project for University of Antioquia´s Web Development Certificate wich is developed rigth now [Pharmacy](https://github.com/WebsiteBuilderTIC2/Farmacia "Pharmacy").
-
-## React Single Pages:
-* [GifExpertApp](https://icmarint.github.io/react-gif-expert/)
+*  [The Web Developer Bootcamp 2022] 
+  *  Yelpcamp was the class project for Udemy´s Bootcamp [Yelpcamp](https://github.com/icmarint/Yelpcamp "Yelpcamp").
+*  [Misión TIC - Colombia]
+  *  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise] (https://github.com/TitanesUdeA/Entrega4 "Enterprise").
+  *  Pharmacy is the class project for University of Antioquia´s Web Development Certificate wich is developed rigth now [Pharmacy](https://github.com/WebsiteBuilderTIC2/Farmacia "Pharmacy").
+* [GifExpertApp]
+  *  This is an application that uses an API developed with React (https://icmarint.github.io/react-gif-expert/).
