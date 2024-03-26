@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isabel Cristina Marín</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+<h3 align="center">A passionate engineer from Colombia</h3>
 
-<p> I am an engineer with a passion for web development. Currently, I am focused on improving my skills and knowledge in this field by taking online courses and working on class projects. Some of my recent projects include YelpCamp from the Web Developer Bootcamp in Udemy and Enterprise and Pharmacy from Misión TIC course in the University of Antioquia - Colombia.
+<p> I am an engineer with a passion for programming. Some of my projects include YelpCamp from the Web Developer Bootcamp in Udemy and Enterprise and Pharmacy from Misión TIC course in the University of Antioquia - Colombia.
  
-Currently, I am learning React in the course React: De cero a experto ( Hooks y MERN ) in Udemy, and I am excited to continue expanding my knowledge in this area.
- 
-I am also open to participating in web development projects to gain more experience and enhance my skills. Please feel free to take a look at my projects and don't hesitate to reach out to me if you have any questions or would like to collaborate.</p>
+Please feel free to take a look at my projects and don't hesitate to reach out to me if you have any questions or would like to collaborate.</p>
 
 - 📫 Contact me: **icmarint@gmail.com**
 
@@ -25,5 +23,5 @@ I am also open to participating in web development projects to gain more experie
 ### Misión TIC - Colombia
 *  Enterprise was the class project for University of Antioquia´s Software Development Certificate [Enterprise](https://github.com/TitanesUdeA/Entrega4 "Enterprise").
 *  Pharmacy is the class project for University of Antioquia´s Web Development Certificate wich is developed rigth now [Pharmacy](https://github.com/WebsiteBuilderTIC2/Farmacia "Pharmacy").
-### React: De cero a experto ( Hooks y MERN )
+### React: From cero to expert ( Hooks y MERN )
 *  GifExpertApp: This is an application developed with React that uses an API (https://icmarint.github.io/react-gif-expert/).
